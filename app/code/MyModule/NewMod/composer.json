@@ -1,0 +1,13 @@
+{
+    "name": "MyModule/NewMod",
+    "type": "library",
+    "description": "Simple Composer",
+    "license": "MIT",
+    "authors": [
+        {"name": "Rajath SB", "email": "rajath402@gmail.com"}
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "version": "0.0.1"
+}
